@@ -1,0 +1,26 @@
+.picture {
+    display: flex;
+
+}
+
+.first {
+    width: 50%;
+    margin: 20px;
+
+}
+
+.first img {
+    width: 80%;
+
+}
+
+.first p {
+    text-align: justify;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    padding: 10px;
+    border-radius: 5px;
+}
